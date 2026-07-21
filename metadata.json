@@ -1,0 +1,6 @@
+{
+  "name": "Wubete Hotel Arba Minch 3D",
+  "description": "Immersive 3D luxury hotel experience for Wubete Hotel Arba Minch featuring interactive 3D resort & room views, Ethiopian coffee ceremony, direct booking engine, multi-currency & language support, and AI Concierge.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
